@@ -2,8 +2,7 @@
 # DATE: 02/21/2023
 # PROGRAM DESCRIPTION: A simple program to calculate the body mass index (BMI) of a person using input from the user for weight in pounds,
 # height in inches. The BMI and a difference in the users BMI if they lost weight, successively in increment of 5 to a maximum of 15% 
-# of their weight would be calculated and displayed. The relative category of the weight and successive increment in loss of weight 
-# would be displayed.
+# of their weight would be calculated and displayed. The relative category of the weight and successive increment in loss of weight would be displayed.
 # PROGRAM NAME: BodyMassIndex (BMI) App
 #######################################################################################################################################
 
